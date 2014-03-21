@@ -15,3 +15,7 @@ The core properties of sampling features are:
 * sampled feature - which links the sampling artefact with the real-world feature of interest
 * related observation
 * related sampling feature - linking sampling features into complexes
+
+DEFINITIONS:
+* The Refcard is similar to a Quickref or Reference Card, as well as a Card from a Library Card Catalog and a Spec sheet or Datasheet.
+* The Refcard is meant to be a "quick reference".
