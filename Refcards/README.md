@@ -22,3 +22,6 @@ DEFINITIONS:
 * In the case of the type of Refcard called the MoralTempCard ("moral temperature reference card"), we are making Observations on the "Moral Climate" or "Moral Temperature".
 * Ergo, the feature of interest and/or observed property is a feature/property of the moral climate.
 * What is the Moral Climate? It is a mixture of the Milieu, the Moment, and the populations inhabiting the habitat at time t.
+
+TOKENS & TYPES:
+* 
