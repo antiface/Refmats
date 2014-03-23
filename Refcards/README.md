@@ -24,4 +24,8 @@ DEFINITIONS:
 * What is the Moral Climate? It is a mixture of the Milieu, the Moment, and the populations inhabiting the habitat at time t.
 
 TOKENS & TYPES:
-* 
+* Cards represent a deep structure, oftentimes called Deep Logic.
+* They are intentional subtypes, representing directional motility in geo-grammar.
+* The biotic life-form is always in an Incunabula; it is an Incunabulist, through the Historiome.
+* The basic type of the historiomic token, a.k.a. Refcard, IS The Tribuna of The Uffizi.
+* It IS the Exhibition-Painting, The Inhibition-Poem, the epitome of "Theatrical Constraint".
