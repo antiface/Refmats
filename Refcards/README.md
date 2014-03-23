@@ -29,3 +29,5 @@ TOKENS & TYPES:
 * The biotic life-form is always in an Incunabula; it is an Incunabulist, through the Historiome.
 * The basic type of the historiomic token, a.k.a. Refcard, IS The Tribuna of The Uffizi.
 * It IS the Exhibition-Painting, The Inhibition-Poem, the epitome of "Theatrical Constraint".
+* See: Theatrum Pictorium, Image-of-Discourse, Image-AS-Discourse, the Mosaic-Painting Painting Mosaics.
+* See also: The Ideal of The Temple of Painting, ABC of Architecture, Florilegio Spirituale.
