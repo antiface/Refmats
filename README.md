@@ -18,3 +18,5 @@ _The aphorism quotes the first two lines of the Aphorismi by the Ancient Greek p
 * That was a [Hyperlink] (http://en.wikipedia.org/wiki/Hyperlink). So was that, just now, the linking part.
 * Is a hyperlink a Reference? Not really, it's more like a Pointer.
 * Is the URL a REFERENCE? Yes, pretty much, it definitely does Reference Something.
+
+## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
