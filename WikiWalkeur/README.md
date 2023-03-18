@@ -6,6 +6,7 @@ What is a WikiWalkeur?
 * This is what a WikiWalk is, literally for LACK of a better term. Manual or Analog Web Crawling is the only alternative I have found thus far, and is is a rather crude description of what the process really is all about.
 * The point is that you can do better than Google's own web crawler(s), because you have Human Intelligence.
 * And no matter what bitter, angry scholars say, the World Wide Web is still an entirely *Valid way to do research*;
+* For more information on the whole __WikiWalking__ concept, see my [__*Refinement Process*__](https://github.com/antiface/Documentation/blob/master/METHODS/GeneralWorkflow/RefinementProcess/README.md) document on Github;
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
